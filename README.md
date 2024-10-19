@@ -19,3 +19,9 @@ This project clusters FIFA 23 players based on their attributes to find similar 
 1. Install the required packages using:
    ```bash
    pip install -r requirements.txt
+
+2. Run the script:
+   ```bash
+   python src/run_clustering.py
+
+
